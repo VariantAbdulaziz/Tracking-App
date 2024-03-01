@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 - run the project
 - upload a video (https://docs.opencv.org/4.x/cup.mp4)
-- drag on the canvas (left one on the screen to select the video)
+- drag on the canvas (left one on the screen to select the object on the video you want to track)
